@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Тест "ЕГЭ по английскому языку" от EF English First</title>
+		<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic">
+		<link type="text/css" rel="stylesheet" href="style.css">
+    </head>
+	
+    <body>
+
+		<div id="wrap">
+			<div id="block">
+				<div class="progress"></div>
+				<div id="question"></div>
+			</div>
+
+			<div id="resultblock">
+				<div id="result">
+					<div id="wording"></div>
+					<div onclick="answerQuizAgain()" id="next1">Пройти еще раз</div>
+				</div>
+			</div>
+		</div>
+				
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script src="script.js"></script>
+	
+	</body>
+	
+</html>

@@ -1,4 +1,4 @@
-# quiz1
+# English quiz about parenting
 Nice quiz that defines what type of parent you are.
 
 Main features:
